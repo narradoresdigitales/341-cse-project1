@@ -5,10 +5,9 @@
     "description": "Contacts Api",
     "version": "1.0.0"
   },
-  "host": "localhost:3001",
+  "host": "https://three41-cse-project1.onrender.com",
   "basePath": "/",
   "schemes": [
-    "http",
     "https"
   ],
   "paths": {
